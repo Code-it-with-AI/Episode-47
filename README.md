@@ -1,4 +1,4 @@
-# Episode-47: Claude with Local LLM
+# Episode-47: Claude + NInfer
 
 ## Claude Code CLI with Local NInfer + Qwen 3.8 Vision on Windows
 
