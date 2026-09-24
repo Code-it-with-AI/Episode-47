@@ -4,7 +4,7 @@
 
 Carl and Rocky share their experiences running Claude Code against a local LLM
 
-📺 YouTube video: https://youtu.be/
+📺 YouTube video: https://youtu.be/w9swPQxZAw4
 
 🏠 Code it with AI Home Page: [https://codeitwithai.com](https://codeitwithai.com/)
 
